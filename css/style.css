@@ -1,0 +1,11 @@
+.container-fluid {
+  background-image: url(https://i.pinimg.com/564x/df/98/a1/df98a1a2685ce762ab57663ec7050639.jpg);
+}
+
+.box {
+  height: 150px;
+  margin: 8px;
+  line-height: 150px;
+  width: calc((100% / 7) - 16px);
+  border: 1px solid yellow;
+}
