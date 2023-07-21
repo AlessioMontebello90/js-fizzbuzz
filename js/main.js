@@ -6,4 +6,8 @@ const newDiv = document.getElementById("box-target");
 
 // CREAIMAO UN CICLO FOR PER GENERAZIONE NUMERI DA 1 A 100
 
-for (let i = 1; i <= 100; i++) {}
+for (let i = 1; i <= 100; i++) {
+  let outpout = i;
+  let myClass = "number";
+  const myDiv = document.createElement("div");
+}
