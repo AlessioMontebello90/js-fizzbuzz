@@ -9,3 +9,19 @@
   width: calc((100% / 7) - 16px);
   border: 1px solid yellow;
 }
+
+.fizzbuzz {
+  background-color: #f0466f;
+}
+
+.fizz {
+  background-color: #0fd6a1;
+}
+
+.buzz {
+  background-color: #ffd166;
+}
+
+.number {
+  background-color: #0f89b2;
+}
